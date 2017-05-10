@@ -1,0 +1,67 @@
+{
+  "recipe": {
+    "title": "Waffles of Insane Greatness",
+    "picture": "",
+    "yield": "4",
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "quantity": "3\/4",
+        "unit": "cup"
+      },
+      {
+        "name": "cornstarch",
+        "quantity": "1\/4",
+        "unit": "cup"
+      },
+      {
+        "name": "baking powder",
+        "quantity": "1\/2",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "baking soda",
+        "quantity": "1\/4",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "salt",
+        "quantity": "1\/2",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "whole milk or buttermilk",
+        "quantity": "1",
+        "unit": "cup"
+      },
+      {
+        "name": "vegetable oil",
+        "quantity": "1\/3",
+        "unit": "cup"
+      },
+      {
+        "name": "egg",
+        "quantity": "1"
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 1\/2",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": "3\/4",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "butter",
+        "notes": "for serving"
+      },
+      {
+        "name": "syrup",
+        "notes": "for serving"
+      }
+    ],
+    "directions": "In a medium bowl, combine the flour, cornstarch, baking powder, baking soda, and salt; mix well. Add the milk, vegetable oil, egg, sugar and vanilla and mix well. Let the batter sit for 30 minutes.\nPreheat a waffle iron. Do not use non-stick spray on the waffle iron; the oil in the batter will allow the waffle to release easily. Follow the directions on your waffle iron to cook the waffles. Serve immediately with butter and syrup."
+  }
+}
