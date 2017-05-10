@@ -13,6 +13,10 @@
   color: black;
 }
 
-.App-intro {
+.App-body {
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 35px;
+  text-align: left;
   font-size: large;
 }

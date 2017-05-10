@@ -15,9 +15,9 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1>recipes</h1>
         </div>
-        <Recipe recipeData={data} />
-        <p className="App-intro">
-        </p>
+        <div className="App-body">
+          <Recipe recipeData={data}/>
+        </div>
       </div>
     );
   }

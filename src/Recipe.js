@@ -1,18 +1,18 @@
 import React, { Component } from 'react';
+import RecipeInfo from './RecipeInfo.js';
+import Ingredients from './Ingredients.js';
+import Directions from './Directions.js';
 
 class Recipe extends Component {
   render() {
     var recipe = this.props.recipeData.recipe;
-    console.log(recipe.recipe);
 
     return (
       <div>
         <h2>{recipe.title}</h2>
-        <div>Yield: {recipe.yield}</div>
-        <div>Ingredients:</div>
-        <div></div>
-        <div>Directions:</div>
-        <div>{recipe.directions}</div>
+        <RecipeInfo recipe={recipe}/>
+        <Ingredients heading={"Ingredients"} ingredients={recipe.ingredients}/>
+        <Directions heading={"Directions"} directions={recipe.directions}/>
       </div>
     );
   }
